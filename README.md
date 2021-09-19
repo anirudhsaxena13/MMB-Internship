@@ -9,4 +9,4 @@ Make me builder is an Online market place for Construction, Interior Design, Arc
 Algorithms Designed for make me builder.
 
 
-Agorithms works on data preprocessing and data profiling
+Agorithms work on data preprocessing and data profiling
