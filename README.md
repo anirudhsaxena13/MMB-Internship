@@ -1,4 +1,4 @@
-## MMB-Internship
+## Make me builder - Internship
 
 Data Mining Intern at Make me builder.
 
