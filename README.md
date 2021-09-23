@@ -1,10 +1,7 @@
 ## Make me builder - Internship
 
 Data Mining Intern at Make me builder.
-
 Algorithms Designed for make me builder.
-
-
 Agorithms work on data preprocessing and data profiling
 
 ## About the company
